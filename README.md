@@ -1,6 +1,6 @@
 # [HumHub](https://www.humhub.org) GitHum Theme
 
-### Installation/Acticate
+### Installation/Activate
 1. Download via git or the download option
 2. Upload to your server under /YOU-INSTALLATION/themes
 3. Rename the theme folder `GitHum` (Note: May not be needed for some!)
