@@ -21,6 +21,8 @@
                       \humhub\modules\activity\widgets\Stream::className(),
                       ['streamAction' => '/dashboard/dashboard/stream'],
                       ['sortOrder' => 150]
+
+                    ]
                 ]
             ]);
             ?>
