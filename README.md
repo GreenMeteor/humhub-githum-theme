@@ -1,1 +1,3 @@
-# humhub-githum-theme
+# [HumHub](https://www.humhub.org) GitHum Theme
+
+## UNDER DEVELOPMENT
