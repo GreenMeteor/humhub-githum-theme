@@ -21,11 +21,6 @@
                       \humhub\modules\activity\widgets\Stream::className(),
                       ['streamAction' => '/dashboard/dashboard/stream'],
                       ['sortOrder' => 150]
-
-                      \widgets\github::className(),
-                      ['streamAction' => '/dashboard/dashboard/stream'],
-                      ['sortOrder' => 155]
-                    ]
                 ]
             ]);
             ?>
