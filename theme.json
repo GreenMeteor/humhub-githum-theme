@@ -1,0 +1,16 @@
+{
+    "name": "GitHum",
+    "description": "This is a GitHub inspired color HumHub theme.",
+    "keywords": ["github", "theme"],
+    "version": "1.0.0",
+    "authors": [
+        {
+            "name": "GreenMeteor"
+        }
+    ],
+    "homepage": "https://github.com/GreenMeteor/humhub-githum-theme",
+    "license": "AGPL",
+    "humhub": {
+        "minVersion": "1.2"
+    }
+}
