@@ -7,4 +7,7 @@
 4. Go to your `ACP --> Settings --> Appearance`
 5. Change the theme to `GitHum` and save.
 
+### Walkthroughs & Guides
+[MOVED HERE](https://greenmeteor.github.io/docs/)
+
 > Best used with the [Gitter](https://github.com/GreenVolume/humhub-gitter-module), [GitHub](https://github.com/GreenVolume/humhub-github-module), & [Tracker](https://github.com/githubjeka/tracker-issues) modules.
